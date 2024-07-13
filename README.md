@@ -5,7 +5,6 @@
 
 - 🌱 I’m currently learning **Tensorflow and OpenCV**
 
-- 📫 How to reach me **siddharthsahay2004@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
