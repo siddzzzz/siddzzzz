@@ -119,44 +119,6 @@ me.say_hi()
 
 </div>
 
-> ⚠️ **Note:** The snake animation needs a one-time GitHub Action setup. See instructions below ↓
-
-<details>
-<summary>🔧 Click here to set up the snake animation</summary>
-
-1. In your profile repo (`siddzzzz/siddzzzz`), create the folder `.github/workflows/`
-2. Create a file called `snake.yml` inside it with this content:
-
-```yaml
-name: Generate Snake
-
-on:
-  schedule:
-    - cron: "0 0 * * *"
-  workflow_dispatch:
-
-jobs:
-  generate:
-    runs-on: ubuntu-latest
-    steps:
-      - uses: Platane/snk@v3
-        with:
-          github_user_name: siddzzzz
-          outputs: |
-            dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
-      - uses: crazy-max/ghaction-github-pages@v3
-        with:
-          target_branch: output
-          build_dir: dist
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-```
-
-3. Run the action once manually from the **Actions** tab — after that it runs daily automatically!
-
-</details>
-
 ---
 
 ## 🤝 Connect with Me
