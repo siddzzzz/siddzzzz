@@ -1,18 +1,9 @@
 <!-- Header -->
 <div align="center">
 
-```
- ██████╗ ██╗██████╗ ██████╗ ██╗
- ██╔════╝ ██║██╔══██╗██╔══██╗╚██╗
- ╚█████╗  ██║██║  ██║██║  ██║ ██║
-  ╚═══██╗ ██║██║  ██║██║  ██║ ██╔╝
- ██████╔╝ ██║██████╔╝██████╔╝██╔╝
- ╚═════╝  ╚═╝╚═════╝ ╚═════╝ ╚═╝
-```
+# 👾 Siddharth Sahay
 
-# Hey there! I'm **Siddharth Sahay** 👾
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=AI+%26+ML+Enthusiast+%F0%9F%A4%96;Building+cool+things+with+Python+%F0%9F%90%8D;Currently+taming+TensorFlow+%26+OpenCV+%F0%9F%94%A5;Gamer+by+night%2C+researcher+by+day+%F0%9F%8E%AE" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=AI+%26+ML+Enthusiast+%F0%9F%A4%96;Building+cool+things+with+Python+%F0%9F%90%8D;Currently+taming+TensorFlow+%26+OpenCV+%F0%9F%94%A5;Gamer+by+night%2C+researcher+by+day+%F0%9F%8E%AE;Always+cooking+up+something+new+%F0%9F%9B%A0%EF%B8%8F" alt="Typing SVG" />
 
 <br/>
 
@@ -79,12 +70,92 @@ me.say_hi()
 
 ---
 
+## 🏆 GitHub Trophies
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=siddzzzz&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&column=7" />
+
+</div>
+
+---
+
 ## 🎯 Currently On My Quest
 
-- 🧠 Leveling up with **TensorFlow** & **OpenCV**
-- 🔬 Exploring **Computer Vision** research
-- 🛠️ Always cooking up a new project
-- 🎮 Beating the final boss (deadlines)
+| 🗺️ Quest | ⚔️ Status |
+|---|---|
+| Mastering **TensorFlow** | 🔄 In Progress |
+| Exploring **Computer Vision** research | 🔄 In Progress |
+| Building a cool side project | 🔧 Cooking... |
+| Defeating deadlines | 😅 Always |
+
+---
+
+## 📈 Contribution Activity
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=siddzzzz&theme=tokyo-night&hide_border=true&area=true" />
+
+</div>
+
+---
+
+## 🎲 Random Dev Quote
+
+<div align="center">
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
+
+</div>
+
+---
+
+## 🐍 Watch My Contributions Get Eaten
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/siddzzzz/siddzzzz/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+
+</div>
+
+> ⚠️ **Note:** The snake animation needs a one-time GitHub Action setup. See instructions below ↓
+
+<details>
+<summary>🔧 Click here to set up the snake animation</summary>
+
+1. In your profile repo (`siddzzzz/siddzzzz`), create the folder `.github/workflows/`
+2. Create a file called `snake.yml` inside it with this content:
+
+```yaml
+name: Generate Snake
+
+on:
+  schedule:
+    - cron: "0 0 * * *"
+  workflow_dispatch:
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: Platane/snk@v3
+        with:
+          github_user_name: siddzzzz
+          outputs: |
+            dist/github-contribution-grid-snake.svg
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+      - uses: crazy-max/ghaction-github-pages@v3
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+```
+
+3. Run the action once manually from the **Actions** tab — after that it runs daily automatically!
+
+</details>
 
 ---
 
