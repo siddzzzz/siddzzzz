@@ -19,8 +19,7 @@
 
 ## 🚀 About Me
 
-- 🎓 **Education:** Graduating with a Bachelor of Engineering in Artificial Intelligence and Machine Learning from BMS College of Engineering, Bengaluru.
-- 🏢 **Next Chapter:** Incoming MS in Computer Science candidate at the **University of Southern California (USC)**.
+- 🎓 **Education:** Graduating with a Bachelor of Engineering in Artificial Intelligence and Machine Learning
 - 🔬 **Focus:** Passionate about bridging the gap between theoretical deep learning and real-world applications.
 - 🛠️ **Current Focus:** Deepening my expertise in complex deep learning architectures, multimodal AI, and training paradigm optimizations.
 
