@@ -100,16 +100,6 @@ me.say_hi()
 
 ---
 
-## 🏆 Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=siddzzzz&theme=algolia&no-frame=true&no-bg=true&margin-w=6&column=7" />
-
-</div>
-
----
-
 ## 🗺️ Active Quests
 
 <div align="center">
