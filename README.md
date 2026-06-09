@@ -1,24 +1,30 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1b27,50:58A6FF,100:0F3460&height=200&section=header&text=Siddharth%20Sahay&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=AI%20%26%20ML%20Engineer%20%7C%20Python%20Enthusiast%20%7C%20Gamer&descAlignY=58&descSize=18&animation=fadeIn" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1f3a5f,100:0d1117&height=220&section=header&text=Siddharth%20Sahay&fontSize=50&fontColor=58a6ff&fontAlignY=40&desc=AI%20%26%20ML%20Engineer%20%7C%20Computer%20Vision%20%7C%20Python%20Dev&descAlignY=60&descSize=17&animation=fadeIn" />
 
 </div>
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&pause=1000&color=58A6FF&center=true&vCenter=true&width=650&lines=Building+intelligent+systems+%F0%9F%A4%96;Taming+TensorFlow+%26+OpenCV+every+day+%F0%9F%94%A5;Gamer+by+night%2C+AI+researcher+by+day+%F0%9F%8E%AE;Always+shipping+something+new+%F0%9F%9A%80)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=18&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Building+intelligent+systems+%F0%9F%A4%96;Taming+TensorFlow+%26+OpenCV+every+day+%F0%9F%94%A5;Gamer+by+night%2C+AI+researcher+by+day+%F0%9F%8E%AE;Always+shipping+something+new+%F0%9F%9A%80;I+debug+models+like+I+debug+boss+fights+%E2%9A%A1)](https://git.io/typing-svg)
 
-<br/>
+</div>
 
-[![Profile Views](https://komarev.com/ghpvc/?username=siddzzzz&label=Profile+Views&color=0e75b6&style=flat)](https://github.com/siddzzzz)
+<div align="center">
+
+<img src="https://komarev.com/ghpvc/?username=siddzzzz&label=Profile+Views&color=1f6feb&style=flat-square" />
 &nbsp;
-[![GitHub followers](https://img.shields.io/github/followers/siddzzzz?label=Followers&style=flat&color=58A6FF)](https://github.com/siddzzzz?tab=followers)
+<img src="https://img.shields.io/github/followers/siddzzzz?label=Followers&style=flat-square&color=1f6feb" />
+&nbsp;
+<img src="https://img.shields.io/badge/Focus-AI%20%26%20ML-1f6feb?style=flat-square" />
+&nbsp;
+<img src="https://img.shields.io/badge/Location-India%20%F0%9F%87%AE%F0%9F%87%B3-1f6feb?style=flat-square" />
 
 </div>
 
 ---
 
-## 🧑‍💻 Who Am I?
+## 🧑‍💻 About Me
 
 ```python
 class Siddharth:
@@ -29,11 +35,11 @@ class Siddharth:
         self.fields     = ["Artificial Intelligence", "Machine Learning", "Computer Vision"]
         self.currently  = {
             "learning"  : ["TensorFlow 🔥", "OpenCV 👁️", "Deep Learning architectures"],
-            "building"  : "Something cool (stay tuned 👀)",
+            "building"  : "Something cool... stay tuned 👀",
             "reading"   : "Research papers @ 2AM ☕"
         }
-        self.fun_fact   = "I debug models like I debug bosses — with patience and spite ⚡"
-        self.ask_me     = ["Python", "ML pipelines", "Computer Vision", "AI project ideas"]
+        self.ask_me_about = ["Python", "ML pipelines", "CV projects", "AI ideas"]
+        self.fun_fact     = "I debug models like I debug boss fights — with patience and spite ⚡"
 
     def say_hi(self):
         print("Thanks for stopping by! Let's build something awesome 🚀")
@@ -48,26 +54,29 @@ me.say_hi()
 
 <div align="center">
 
-### 🌐 Languages
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+**Languages**
 
-### 🤖 AI / ML
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![Scikit-Learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=python&logoColor=white)
+![Python](https://img.shields.io/badge/Python-0d1117?style=for-the-badge&logo=python&logoColor=3776AB)
+![C++](https://img.shields.io/badge/C++-0d1117?style=for-the-badge&logo=c%2B%2B&logoColor=00599C)
+![C](https://img.shields.io/badge/C-0d1117?style=for-the-badge&logo=c&logoColor=00599C)
+![Java](https://img.shields.io/badge/Java-0d1117?style=for-the-badge&logo=openjdk&logoColor=ED8B00)
 
-### ⚙️ Tools & Platforms
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+**AI / ML**
+
+![TensorFlow](https://img.shields.io/badge/TensorFlow-0d1117?style=for-the-badge&logo=tensorflow&logoColor=FF6F00)
+![OpenCV](https://img.shields.io/badge/OpenCV-0d1117?style=for-the-badge&logo=opencv&logoColor=5C3EE8)
+![NumPy](https://img.shields.io/badge/NumPy-0d1117?style=for-the-badge&logo=numpy&logoColor=013243)
+![Pandas](https://img.shields.io/badge/Pandas-0d1117?style=for-the-badge&logo=pandas&logoColor=150458)
+![Scikit-Learn](https://img.shields.io/badge/scikit--learn-0d1117?style=for-the-badge&logo=scikit-learn&logoColor=F7931E)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-0d1117?style=for-the-badge&logo=python&logoColor=11557c)
+
+**Tools & Platforms**
+
+![Git](https://img.shields.io/badge/Git-0d1117?style=for-the-badge&logo=git&logoColor=F05032)
+![VS Code](https://img.shields.io/badge/VS%20Code-0d1117?style=for-the-badge&logo=visual-studio-code&logoColor=007ACC)
+![Jupyter](https://img.shields.io/badge/Jupyter-0d1117?style=for-the-badge&logo=jupyter&logoColor=F37626)
+![Linux](https://img.shields.io/badge/Linux-0d1117?style=for-the-badge&logo=linux&logoColor=FCC624)
+![GitHub](https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=ffffff)
 
 </div>
 
@@ -77,15 +86,15 @@ me.say_hi()
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=siddzzzz&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github" height="180"/>
-&nbsp;&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=siddzzzz&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="180"/>
+<img src="https://github-readme-stats.vercel.app/api?username=siddzzzz&show_icons=true&theme=github_dark&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github&bg_color=0d1117&title_color=58a6ff&icon_color=1f6feb&text_color=8b949e&border_color=30363d" height="175"/>
+&nbsp;
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=siddzzzz&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=8b949e&border_color=30363d&langs_count=6" height="175"/>
 
 </div>
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=siddzzzz&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" height="180"/>
+<img src="https://streak-stats.demolab.com?user=siddzzzz&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=1f6feb&ring=58a6ff&fire=ff7b72&currStreakNum=58a6ff&sideNums=8b949e&currStreakLabel=8b949e&sideLabels=8b949e&dates=8b949e" height="175"/>
 
 </div>
 
@@ -95,66 +104,59 @@ me.say_hi()
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=siddzzzz&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&column=7" />
+<img src="https://github-profile-trophy.vercel.app/?username=siddzzzz&theme=algolia&no-frame=true&no-bg=true&margin-w=6&column=7" />
 
 </div>
 
 ---
 
-## 🗺️ Current Quests
+## 🗺️ Active Quests
 
 <div align="center">
 
-| Quest | Status | Progress |
-|:---|:---:|:---:|
-| 🧠 Mastering **TensorFlow** deep learning | 🔄 Active | `████████░░` 80% |
-| 👁️ Exploring **Computer Vision** research | 🔄 Active | `██████░░░░` 60% |
-| 🔧 Building a secret side project | 🛠️ Cooking | `████░░░░░░` 40% |
-| 📚 Reading ML papers consistently | 📖 Ongoing | `███████░░░` 70% |
-| ⚔️ Defeating assignment deadlines | 😅 Always | `██████████` ∞% |
+| &nbsp; | Quest | Progress | Status |
+|:---:|:---|:---:|:---:|
+| 🧠 | Mastering **TensorFlow** deep learning | `████████░░` 80% | 🔵 Active |
+| 👁️ | Exploring **Computer Vision** research | `██████░░░░` 60% | 🔵 Active |
+| 🔧 | Building a secret side project | `███░░░░░░░` 35% | 🟠 Cooking |
+| 📚 | Reading ML papers consistently | `███████░░░` 70% | 🔵 Active |
+| ⚔️ | Defeating assignment deadlines | `██████████` ∞% | 🟣 Always |
 
 </div>
 
 ---
 
-## 📈 Contribution Graph
+## 📈 Contribution Activity
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=siddzzzz&theme=tokyo-night&hide_border=true&area=true&custom_title=Contribution%20Activity" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=siddzzzz&theme=github-compact&bg_color=0d1117&color=58a6ff&line=1f6feb&point=58a6ff&area=true&area_color=1f6feb&hide_border=true&custom_title=Contribution%20Graph" />
 
 </div>
 
 ---
 
-## 💬 Dev Quote of the Day
+## 💬 Dev Quote
 
 <div align="center">
 
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&bg_color=0d1117&border_color=30363d" />
 
 </div>
 
 ---
 
-## 🤝 Let's Connect
+## 🤝 Connect with Me
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/siddharth-sahay-9a8365254)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/siddzzzz)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your@email.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=0077B5)](https://www.linkedin.com/in/siddharth-sahay-9a8365254)
+[![GitHub](https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=ffffff)](https://github.com/siddzzzz)
 
-<br/>
+<br/><br/>
 
-> *"The best way to predict the future is to build it."* 🚀
-
-</div>
-
----
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F3460,50:58A6FF,100:1a1b27&height=120&section=footer" />
+*"The best way to predict the future is to build it." — Alan Kay* 🚀
 
 </div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1f3a5f,100:0d1117&height=120&section=footer" />
