@@ -1,6 +1,19 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1f3a5f,100:0d1117&height=220&section=header&text=Siddharth%20Sahay&fontSize=50&fontColor=58a6ff&fontAlignY=40&desc=AI%20%26%20ML%20Engineer%20%7C%20Computer%20Vision%20%7C%20Python%20Dev&descAlignY=60&descSize=17&animation=fadeIn" />
+<svg width="100%" viewBox="0 0 800 200" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#0d1117"/>
+      <stop offset="50%" style="stop-color:#0f2039"/>
+      <stop offset="100%" style="stop-color:#0d1117"/>
+    </linearGradient>
+  </defs>
+  <rect width="800" height="200" fill="url(#bg)"/>
+  <path d="M0,140 C100,100 200,160 300,130 C400,100 500,155 600,125 C700,95 750,140 800,120 L800,200 L0,200 Z" fill="#0a1628" opacity="0.8"/>
+  <path d="M0,160 C120,130 220,170 340,148 C460,126 560,165 680,142 C740,130 770,155 800,145 L800,200 L0,200 Z" fill="#060d18" opacity="0.9"/>
+  <text x="400" y="90" text-anchor="middle" font-family="'Segoe UI', 'Helvetica Neue', Arial, sans-serif" font-size="42" font-weight="700" fill="#58a6ff">Siddharth Sahay</text>
+  <text x="400" y="128" text-anchor="middle" font-family="'Segoe UI', 'Helvetica Neue', Arial, sans-serif" font-size="15" font-weight="400" fill="#8b949e">AI &amp; ML Engineer · Computer Vision · Python Dev</text>
+</svg>
 
 </div>
 
@@ -159,4 +172,15 @@ me.say_hi()
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1f3a5f,100:0d1117&height=120&section=footer" />
+<svg width="100%" viewBox="0 0 800 100" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="fg" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#0d1117"/>
+      <stop offset="50%" style="stop-color:#0f2039"/>
+      <stop offset="100%" style="stop-color:#0d1117"/>
+    </linearGradient>
+  </defs>
+  <rect width="800" height="100" fill="url(#fg)"/>
+  <path d="M0,40 C100,10 200,60 300,35 C400,10 500,55 600,28 C700,5 750,40 800,22 L800,0 L0,0 Z" fill="#0a1628" opacity="0.8"/>
+  <path d="M0,55 C120,28 220,65 340,45 C460,25 560,60 680,38 C740,27 770,50 800,40 L800,0 L0,0 Z" fill="#060d18" opacity="0.6"/>
+</svg>
