@@ -1,18 +1,71 @@
 <div align="center">
 
-<svg width="100%" viewBox="0 0 800 200" xmlns="http://www.w3.org/2000/svg">
+<svg width="800" height="200" viewBox="0 0 800 200" xmlns="http://www.w3.org/2000/svg">
   <defs>
-    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="0%">
-      <stop offset="0%" style="stop-color:#0d1117"/>
-      <stop offset="50%" style="stop-color:#0f2039"/>
-      <stop offset="100%" style="stop-color:#0d1117"/>
+    <radialGradient id="glow" cx="50%" cy="50%" r="50%">
+      <stop offset="0%" stop-color="#1f6feb" stop-opacity="0.35"/>
+      <stop offset="100%" stop-color="#0d1117" stop-opacity="0"/>
+    </radialGradient>
+    <filter id="blur-glow" x="-30%" y="-30%" width="160%" height="160%">
+      <feGaussianBlur in="SourceGraphic" stdDeviation="6" result="blur"/>
+      <feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+    <filter id="text-glow" x="-20%" y="-60%" width="140%" height="220%">
+      <feGaussianBlur in="SourceGraphic" stdDeviation="4" result="blur"/>
+      <feMerge><feMergeNode in="blur"/><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+    <linearGradient id="name-grad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#388bfd"/>
+      <stop offset="45%" stop-color="#a5d6ff"/>
+      <stop offset="100%" stop-color="#388bfd"/>
+    </linearGradient>
+    <linearGradient id="line-grad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#0d1117"/>
+      <stop offset="30%" stop-color="#1f6feb"/>
+      <stop offset="70%" stop-color="#1f6feb"/>
+      <stop offset="100%" stop-color="#0d1117"/>
     </linearGradient>
   </defs>
-  <rect width="800" height="200" fill="url(#bg)"/>
-  <path d="M0,140 C100,100 200,160 300,130 C400,100 500,155 600,125 C700,95 750,140 800,120 L800,200 L0,200 Z" fill="#0a1628" opacity="0.8"/>
-  <path d="M0,160 C120,130 220,170 340,148 C460,126 560,165 680,142 C740,130 770,155 800,145 L800,200 L0,200 Z" fill="#060d18" opacity="0.9"/>
-  <text x="400" y="90" text-anchor="middle" font-family="'Segoe UI', 'Helvetica Neue', Arial, sans-serif" font-size="42" font-weight="700" fill="#58a6ff">Siddharth Sahay</text>
-  <text x="400" y="128" text-anchor="middle" font-family="'Segoe UI', 'Helvetica Neue', Arial, sans-serif" font-size="15" font-weight="400" fill="#8b949e">AI &amp; ML Engineer · Computer Vision · Python Dev</text>
+
+  <rect width="800" height="200" fill="#0d1117"/>
+
+  <!-- dot grid -->
+  <g opacity="0.18">
+    <circle cx="60" cy="30" r="1.2" fill="#58a6ff"/><circle cx="120" cy="30" r="1.2" fill="#58a6ff"/><circle cx="180" cy="30" r="1.2" fill="#58a6ff"/><circle cx="240" cy="30" r="1.2" fill="#58a6ff"/><circle cx="300" cy="30" r="1.2" fill="#58a6ff"/><circle cx="360" cy="30" r="1.2" fill="#58a6ff"/><circle cx="420" cy="30" r="1.2" fill="#58a6ff"/><circle cx="480" cy="30" r="1.2" fill="#58a6ff"/><circle cx="540" cy="30" r="1.2" fill="#58a6ff"/><circle cx="600" cy="30" r="1.2" fill="#58a6ff"/><circle cx="660" cy="30" r="1.2" fill="#58a6ff"/><circle cx="720" cy="30" r="1.2" fill="#58a6ff"/>
+    <circle cx="60" cy="70" r="1.2" fill="#58a6ff"/><circle cx="120" cy="70" r="1.2" fill="#58a6ff"/><circle cx="180" cy="70" r="1.2" fill="#58a6ff"/><circle cx="240" cy="70" r="1.2" fill="#58a6ff"/><circle cx="300" cy="70" r="1.2" fill="#58a6ff"/><circle cx="360" cy="70" r="1.2" fill="#58a6ff"/><circle cx="420" cy="70" r="1.2" fill="#58a6ff"/><circle cx="480" cy="70" r="1.2" fill="#58a6ff"/><circle cx="540" cy="70" r="1.2" fill="#58a6ff"/><circle cx="600" cy="70" r="1.2" fill="#58a6ff"/><circle cx="660" cy="70" r="1.2" fill="#58a6ff"/><circle cx="720" cy="70" r="1.2" fill="#58a6ff"/>
+    <circle cx="60" cy="110" r="1.2" fill="#58a6ff"/><circle cx="120" cy="110" r="1.2" fill="#58a6ff"/><circle cx="180" cy="110" r="1.2" fill="#58a6ff"/><circle cx="240" cy="110" r="1.2" fill="#58a6ff"/><circle cx="300" cy="110" r="1.2" fill="#58a6ff"/><circle cx="360" cy="110" r="1.2" fill="#58a6ff"/><circle cx="420" cy="110" r="1.2" fill="#58a6ff"/><circle cx="480" cy="110" r="1.2" fill="#58a6ff"/><circle cx="540" cy="110" r="1.2" fill="#58a6ff"/><circle cx="600" cy="110" r="1.2" fill="#58a6ff"/><circle cx="660" cy="110" r="1.2" fill="#58a6ff"/><circle cx="720" cy="110" r="1.2" fill="#58a6ff"/>
+    <circle cx="60" cy="150" r="1.2" fill="#58a6ff"/><circle cx="120" cy="150" r="1.2" fill="#58a6ff"/><circle cx="180" cy="150" r="1.2" fill="#58a6ff"/><circle cx="240" cy="150" r="1.2" fill="#58a6ff"/><circle cx="300" cy="150" r="1.2" fill="#58a6ff"/><circle cx="360" cy="150" r="1.2" fill="#58a6ff"/><circle cx="420" cy="150" r="1.2" fill="#58a6ff"/><circle cx="480" cy="150" r="1.2" fill="#58a6ff"/><circle cx="540" cy="150" r="1.2" fill="#58a6ff"/><circle cx="600" cy="150" r="1.2" fill="#58a6ff"/><circle cx="660" cy="150" r="1.2" fill="#58a6ff"/><circle cx="720" cy="150" r="1.2" fill="#58a6ff"/>
+    <circle cx="60" cy="185" r="1.2" fill="#58a6ff"/><circle cx="120" cy="185" r="1.2" fill="#58a6ff"/><circle cx="180" cy="185" r="1.2" fill="#58a6ff"/><circle cx="240" cy="185" r="1.2" fill="#58a6ff"/><circle cx="300" cy="185" r="1.2" fill="#58a6ff"/><circle cx="360" cy="185" r="1.2" fill="#58a6ff"/><circle cx="420" cy="185" r="1.2" fill="#58a6ff"/><circle cx="480" cy="185" r="1.2" fill="#58a6ff"/><circle cx="540" cy="185" r="1.2" fill="#58a6ff"/><circle cx="600" cy="185" r="1.2" fill="#58a6ff"/><circle cx="660" cy="185" r="1.2" fill="#58a6ff"/><circle cx="720" cy="185" r="1.2" fill="#58a6ff"/>
+  </g>
+
+  <!-- centre glow bloom -->
+  <ellipse cx="400" cy="105" rx="300" ry="90" fill="url(#glow)"/>
+
+  <!-- corner accent lines -->
+  <line x1="30" y1="18" x2="100" y2="18" stroke="#1f6feb" stroke-width="1" opacity="0.6"/>
+  <line x1="30" y1="18" x2="30" y2="70" stroke="#1f6feb" stroke-width="1" opacity="0.6"/>
+  <line x1="770" y1="18" x2="700" y2="18" stroke="#1f6feb" stroke-width="1" opacity="0.6"/>
+  <line x1="770" y1="18" x2="770" y2="70" stroke="#1f6feb" stroke-width="1" opacity="0.6"/>
+  <line x1="30" y1="182" x2="100" y2="182" stroke="#1f6feb" stroke-width="1" opacity="0.6"/>
+  <line x1="30" y1="182" x2="30" y2="130" stroke="#1f6feb" stroke-width="1" opacity="0.6"/>
+  <line x1="770" y1="182" x2="700" y2="182" stroke="#1f6feb" stroke-width="1" opacity="0.6"/>
+  <line x1="770" y1="182" x2="770" y2="130" stroke="#1f6feb" stroke-width="1" opacity="0.6"/>
+
+  <!-- glow copy of name (bloom layer) -->
+  <text x="400" y="115" text-anchor="middle"
+    font-family="'Trebuchet MS', 'Segoe UI', Georgia, sans-serif"
+    font-size="54" font-weight="700" letter-spacing="3"
+    fill="#388bfd" opacity="0.25" filter="url(#blur-glow)">Siddharth Sahay</text>
+
+  <!-- main name with gradient -->
+  <text x="400" y="115" text-anchor="middle"
+    font-family="'Trebuchet MS', 'Segoe UI', Georgia, sans-serif"
+    font-size="54" font-weight="700" letter-spacing="3"
+    fill="url(#name-grad)" filter="url(#text-glow)">Siddharth Sahay</text>
+
+  <!-- decorative underline -->
+  <rect x="200" y="128" width="400" height="1.5" fill="url(#line-grad)" rx="1"/>
+  <rect x="320" y="133" width="160" height="0.8" fill="url(#line-grad)" rx="1" opacity="0.5"/>
 </svg>
 
 </div>
