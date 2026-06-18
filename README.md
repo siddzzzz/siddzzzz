@@ -6,7 +6,7 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=18&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Building+intelligent+systems+%F0%9F%A4%96;Taming+TensorFlow+%26+OpenCV+every+day+%F0%9F%94%A5;Gamer+by+night%2C+AI+researcher+by+day+%F0%9F%8E%AE;Always+shipping+something+new+%F0%9F%9A%80;I+debug+models+like+I+debug+boss+fights+%E2%9A%A1)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=18&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Building+intelligent+systems+%F0%9F%A4%96;Shipping+projects+%26+writing+papers+%F0%9F%94%A5;Gamer+by+night%2C+AI+researcher+by+day+%F0%9F%8E%AE;Always+shipping+something+new+%F0%9F%9A%80;I+debug+models+like+I+debug+boss+fights+%E2%9A%A1)](https://git.io/typing-svg)
 
 </div>
 
@@ -34,9 +34,9 @@ class Siddharth:
         self.location   = "India 🇮🇳"
         self.fields     = ["Artificial Intelligence", "Machine Learning", "Computer Vision"]
         self.currently  = {
-            "learning"  : ["TensorFlow 🔥", "OpenCV 👁️", "Deep Learning architectures"],
-            "building"  : "Something cool... stay tuned 👀",
-            "reading"   : "Research papers @ 2AM ☕"
+            "building"  : "Projects that (hopefully) work in production 🛠️",
+            "writing"   : "Papers, notes, and the occasional rant at 2AM ☕",
+            "exploring" : "New architectures, new ideas, new rabbit holes 🕳️"
         }
         self.ask_me_about = ["Python", "ML pipelines", "CV projects", "AI ideas"]
         self.fun_fact     = "I debug models like I debug boss fights — with patience and spite ⚡"
@@ -106,10 +106,10 @@ me.say_hi()
 
 | &nbsp; | Quest | Progress | Status |
 |:---:|:---|:---:|:---:|
-| 🧠 | Mastering **TensorFlow** deep learning | `████████░░` 80% | 🔵 Active |
-| 👁️ | Exploring **Computer Vision** research | `██████░░░░` 60% | 🔵 Active |
+| 🧠 | Shipping **ML projects** end-to-end | `████████░░` 80% | 🔵 Active |
+| 📝 | Writing and publishing **research papers** | `██████░░░░` 60% | 🔵 Active |
 | 🔧 | Building a secret side project | `███░░░░░░░` 35% | 🟠 Cooking |
-| 📚 | Reading ML papers consistently | `███████░░░` 70% | 🔵 Active |
+| 📚 | Reading research papers consistently | `███████░░░` 70% | 🔵 Active |
 | ⚔️ | Defeating assignment deadlines | `██████████` ∞% | 🟣 Always |
 
 </div>
@@ -142,6 +142,7 @@ me.say_hi()
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=0077B5)](https://www.linkedin.com/in/siddharth-sahay-9a8365254)
 [![GitHub](https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=ffffff)](https://github.com/siddzzzz)
+[![Google Scholar](https://img.shields.io/badge/Google%20Scholar-0d1117?style=for-the-badge&logo=google-scholar&logoColor=4285F4)](https://scholar.google.com/citations?hl=en&user=EVCbticAAAAJ)
 
 <br/><br/>
 
