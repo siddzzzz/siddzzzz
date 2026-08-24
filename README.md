@@ -1,8 +1,8 @@
-<div align="center">
-
-[![Header](https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=40&duration=3000&pause=99999&color=58A6FF&center=true&vCenter=true&repeat=false&width=700&height=120&lines=Siddharth+Sahay)](https://github.com/siddzzzz)
-
-</div>
+____ ___ ____  ____  _   _    _    ____ _____ _   _ 
+ / ___|_ _|  _ \|  _ \| | | |  / \  |  _ \_   _| | | |
+ \___ \| || | | | | | | |_| | / _ \ | |_) || | | |_| |
+  ___) | || |_| | |_| |  _  |/ ___ \|  _ < | | |  _  |
+ |____/___|____/|____/|_| |_/_/   \_\_| \_\|_| |_| |_|
 
 <div align="center">
 
