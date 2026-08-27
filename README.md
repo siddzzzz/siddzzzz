@@ -1,164 +1,144 @@
 <div align="center">
 
-[![Header](https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=40&duration=3000&pause=99999&color=58A6FF&center=true&vCenter=true&repeat=false&width=700&height=120&lines=Siddharth+Sahay)](https://github.com/siddzzzz)
+```
+╔══════════════════════════════════════════════════════════════╗
+║                                                                  ║
+║        C  A  P  T  A  I  N     S  E  G  F  A  U  L  T           ║
+║                                                                  ║
+║        ( secretly known as Siddharth Sahay )                    ║
+║                                                                  ║
+╚══════════════════════════════════════════════════════════════╝
+```
 
 </div>
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=18&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Building+intelligent+systems+%F0%9F%A4%96;Shipping+projects+%26+writing+papers+%F0%9F%94%A5;Gamer+by+night%2C+AI+researcher+by+day+%F0%9F%8E%AE;Always+shipping+something+new+%F0%9F%9A%80;I+debug+models+like+I+debug+boss+fights+%E2%9A%A1)](https://git.io/typing-svg)
+```
+              .-----------.
+             /   _     _   \
+            |   (o)   (o)   |
+            |       >       |
+             \    ⌣⌣⌣     /
+              '-----------'
+             /|             |\
+            / |     S       | \      <-- yes, the cape has an S
+           *  |    /||\     |  *         no, it does not stand
+              |   / || \    |            for "Stack Overflow"
+              |  /  ||  \   |            (it does)
+             _|_/   ||   \_|_
+            /   \        /   \
+           *     *      *     *
+```
 
 </div>
 
+<p align="center"><i>"With great power comes great responsibility... to Google the error message first."</i></p>
+
+---
+
+## 🦸 ORIGIN STORY
+
+> Once an ordinary CS student, Siddharth was bitten by a radioactive `NullPointerException`
+> at 3:47 AM during a deadline. He gained the power to **crash gracefully**, **debug by staring
+> intensely**, and **turn coffee directly into commits**. He now roams GitHub fighting evil,
+> one broken build at a time.
+
+---
+
+## 📋 HERO FILE — CLASSIFIED
+
 <div align="center">
 
-<img src="https://komarev.com/ghpvc/?username=siddzzzz&label=Profile+Views&color=1f6feb&style=flat-square" />
-&nbsp;
-<img src="https://img.shields.io/github/followers/siddzzzz?label=Followers&style=flat-square&color=1f6feb" />
-&nbsp;
-<img src="https://img.shields.io/badge/Focus-AI%20%26%20ML-1f6feb?style=flat-square" />
-&nbsp;
-<img src="https://img.shields.io/badge/Location-India%20%F0%9F%87%AE%F0%9F%87%B3-1f6feb?style=flat-square" />
+| ATTRIBUTE | VALUE |
+|:---|:---|
+| **Real Name** | Siddharth Sahay |
+| **Alter Ego** | Captain Segfault |
+| **Base of Operations** | India 🇮🇳 |
+| **Superpower** | Debugging by vibes |
+| **Weakness** | Off-by-one errors, semicolons, Mondays |
+| **Sidekick** | 🦆 A rubber duck (does 90% of the actual debugging) |
+| **Catchphrase** | *"It works on my machine."* |
+| **Origin of Powers** | A radioactive stack trace at 3 AM |
 
 </div>
 
 ---
 
-## 🧑‍💻 About Me
+## ⚔️ ROGUES GALLERY
 
-```python
-class Siddharth:
-    def __init__(self):
-        self.name       = "Siddharth Sahay"
-        self.alias      = "Sidd 🕹️"
-        self.location   = "India 🇮🇳"
-        self.fields     = ["Artificial Intelligence", "Machine Learning", "Computer Vision"]
-        self.currently  = {
-            "building"  : "Projects that (hopefully) work in production 🛠️",
-            "writing"   : "Papers, notes, and the occasional rant at 2AM ☕",
-            "exploring" : "New architectures, new ideas, new rabbit holes 🕳️"
-        }
-        self.ask_me_about = ["Python", "ML pipelines", "CV projects", "AI ideas"]
-        self.fun_fact     = "I debug models like I debug boss fights — with patience and spite ⚡"
+<div align="center">
 
-    def say_hi(self):
-        print("Thanks for stopping by! Let's build something awesome 🚀")
+| VILLAIN | THREAT LEVEL | STATUS |
+|:---|:---:|:---:|
+| 👹 **The Merge Conflict** | ☠️☠️☠️☠️ | At large |
+| 🕐 **Dr. Deadline** | ☠️☠️☠️☠️☠️ | Undefeated (so far) |
+| 🐛 **The 3AM Bug** | ☠️☠️☠️ | Only appears after midnight |
+| 🌀 **Infinite Loop** | ☠️☠️☠️☠️ | Currently containing |
+| 💀 **Semicolon Demon** | ☠️☠️ | Mostly a Python problem, thankfully |
 
-me = Siddharth()
-me.say_hi()
+</div>
+
+---
+
+## 🎒 UTILITY BELT (a.k.a. tech stack)
+
+<div align="center">
+
+![Python](https://img.shields.io/badge/Python-caffeine%20powered-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C++-pointer%20wrangler-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-model%20whisperer-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-sees%20all-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+![Git](https://img.shields.io/badge/Git-time%20travel%20device-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-home%20turf-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+
+</div>
+
+**Gadget Descriptions (for those unfamiliar with the tech):**
+
+```
+🔬 Python        → the trusty grappling hook, gets me anywhere fast
+🧠 TensorFlow    → the mind-reading device (sometimes reads its own mind wrong)
+👁️  OpenCV        → the x-ray vision goggles
+⚙️  C++/C         → the heavy armor, slow to put on, nearly unbreakable
+📦 Git           → the time machine — undo button for life's mistakes
+🐧 Linux         → the secret lair
 ```
 
 ---
 
-## 🛠️ Tech Stack
+## 📈 CURRENT MISSION LOG
 
-<div align="center">
-
-**Languages**
-
-![Python](https://img.shields.io/badge/Python-0d1117?style=for-the-badge&logo=python&logoColor=3776AB)
-![C++](https://img.shields.io/badge/C++-0d1117?style=for-the-badge&logo=c%2B%2B&logoColor=00599C)
-![C](https://img.shields.io/badge/C-0d1117?style=for-the-badge&logo=c&logoColor=00599C)
-![Java](https://img.shields.io/badge/Java-0d1117?style=for-the-badge&logo=openjdk&logoColor=ED8B00)
-
-**AI / ML**
-
-![TensorFlow](https://img.shields.io/badge/TensorFlow-0d1117?style=for-the-badge&logo=tensorflow&logoColor=FF6F00)
-![OpenCV](https://img.shields.io/badge/OpenCV-0d1117?style=for-the-badge&logo=opencv&logoColor=5C3EE8)
-![NumPy](https://img.shields.io/badge/NumPy-0d1117?style=for-the-badge&logo=numpy&logoColor=013243)
-![Pandas](https://img.shields.io/badge/Pandas-0d1117?style=for-the-badge&logo=pandas&logoColor=150458)
-![Scikit-Learn](https://img.shields.io/badge/scikit--learn-0d1117?style=for-the-badge&logo=scikit-learn&logoColor=F7931E)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-0d1117?style=for-the-badge&logo=python&logoColor=11557c)
-
-**Tools & Platforms**
-
-![Git](https://img.shields.io/badge/Git-0d1117?style=for-the-badge&logo=git&logoColor=F05032)
-![VS Code](https://img.shields.io/badge/VS%20Code-0d1117?style=for-the-badge&logo=visual-studio-code&logoColor=007ACC)
-![Jupyter](https://img.shields.io/badge/Jupyter-0d1117?style=for-the-badge&logo=jupyter&logoColor=F37626)
-![Linux](https://img.shields.io/badge/Linux-0d1117?style=for-the-badge&logo=linux&logoColor=FCC624)
-![GitHub](https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=ffffff)
-
-</div>
+```
+[ACTIVE]   Shipping ML projects that survive contact with production
+[ACTIVE]   Writing papers nobody asked for but everyone will cite
+[ONGOING]  Fighting deadlines in unarmed combat
+[SECRET]   Building something in the lair — classified until launch
+[ETERNAL]  Reading research papers I will forget by next Tuesday
+```
 
 ---
 
-## 📊 GitHub Stats
+## 📡 SIGNAL THE BAT-PHONE
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=siddzzzz&show_icons=true&theme=github_dark&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github&bg_color=0d1117&title_color=58a6ff&icon_color=1f6feb&text_color=8b949e&border_color=30363d" height="175"/>
-&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=siddzzzz&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=8b949e&border_color=30363d&langs_count=6" height="175"/>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-send%20a%20signal-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/siddharth-sahay-9a8365254)
+[![GitHub](https://img.shields.io/badge/GitHub-track%20the%20trail-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/siddzzzz)
+[![Google Scholar](https://img.shields.io/badge/Scholar-read%20the%20files-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white)](https://scholar.google.com/citations?hl=en&user=EVCbticAAAAJ)
 
 </div>
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=siddzzzz&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=1f6feb&ring=58a6ff&fire=ff7b72&currStreakNum=58a6ff&sideNums=8b949e&currStreakLabel=8b949e&sideLabels=8b949e&dates=8b949e" height="175"/>
+```
+┌─────────────────────────────────────────────────────────┐
+│  "The best way to predict the future is to build it,     │
+│   fix the bugs in it, and then rewrite it entirely."      │
+│                                    — Captain Segfault      │
+└─────────────────────────────────────────────────────────┘
+```
 
 </div>
 
----
-
-## 🗺️ Active Quests
-
-<div align="center">
-
-| &nbsp; | Quest | Progress | Status |
-|:---:|:---|:---:|:---:|
-| 🧠 | Shipping **ML projects** end-to-end | `████████░░` 80% | 🔵 Active |
-| 📝 | Writing and publishing **research papers** | `██████░░░░` 60% | 🔵 Active |
-| 🔧 | Building a secret side project | `███░░░░░░░` 35% | 🟠 Cooking |
-| 📚 | Reading research papers consistently | `███████░░░` 70% | 🔵 Active |
-| ⚔️ | Defeating assignment deadlines | `██████████` ∞% | 🟣 Always |
-
-</div>
-
----
-
-## 📈 Contribution Activity
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=siddzzzz&theme=github-compact&bg_color=0d1117&color=58a6ff&line=1f6feb&point=58a6ff&area=true&area_color=1f6feb&hide_border=true&custom_title=Contribution%20Graph" />
-
-</div>
-
----
-
-## 💬 Dev Quote
-
-<div align="center">
-
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&bg_color=0d1117&border_color=30363d" />
-
-</div>
-
----
-
-## 🤝 Connect with Me
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=0077B5)](https://www.linkedin.com/in/siddharth-sahay-9a8365254)
-[![GitHub](https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=ffffff)](https://github.com/siddzzzz)
-[![Google Scholar](https://img.shields.io/badge/Google%20Scholar-0d1117?style=for-the-badge&logo=google-scholar&logoColor=4285F4)](https://scholar.google.com/citations?hl=en&user=EVCbticAAAAJ)
-
-<br/><br/>
-
-*"The best way to predict the future is to build it." — Alan Kay* 🚀
-
-</div>
-
-<svg width="100%" viewBox="0 0 800 100" xmlns="http://www.w3.org/2000/svg">
-  <defs>
-    <linearGradient id="fg" x1="0%" y1="0%" x2="100%" y2="0%">
-      <stop offset="0%" style="stop-color:#0d1117"/>
-      <stop offset="50%" style="stop-color:#0f2039"/>
-      <stop offset="100%" style="stop-color:#0d1117"/>
-    </linearGradient>
-  </defs>
-  <rect width="800" height="100" fill="url(#fg)"/>
-  <path d="M0,40 C100,10 200,60 300,35 C400,10 500,55 600,28 C700,5 750,40 800,22 L800,0 L0,0 Z" fill="#0a1628" opacity="0.8"/>
-  <path d="M0,55 C120,28 220,65 340,45 C460,25 560,60 680,38 C740,27 770,50 800,40 L800,0 L0,0 Z" fill="#060d18" opacity="0.6"/>
-</svg>
+<p align="center">⚡ thanks for visiting the lair — now go build something ⚡</p>
