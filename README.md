@@ -1,13 +1,11 @@
 <div align="center">
 
 ```
-╔══════════════════════════════════════════════════════════════╗
-║                                                                  ║
-║        C  A  P  T  A  I  N     S  E  G  F  A  U  L  T           ║
-║                                                                  ║
-║        ( secretly known as Siddharth Sahay )                    ║
-║                                                                  ║
-╚══════════════════════════════════════════════════════════════╝
++-----------------------------------------+
+|             CAPTAIN SEGFAULT             |
+|                                           |
+|   ( secretly known as Siddharth Sahay )  |
++-----------------------------------------+
 ```
 
 </div>
@@ -15,21 +13,21 @@
 <div align="center">
 
 ```
-              .-----------.
-             /   _     _   \
-            |   (o)   (o)   |
-            |       >       |
-             \    ⌣⌣⌣     /
-              '-----------'
-             /|             |\
-            / |     S       | \      <-- yes, the cape has an S
-           *  |    /||\     |  *         no, it does not stand
-              |   / || \    |            for "Stack Overflow"
-              |  /  ||  \   |            (it does)
-             _|_/   ||   \_|_
-            /   \        /   \
-           *     *      *     *
+         .--------.        
+        /          \       
+       |   O    O   |      
+      |      ^      |      
+        \   ____   /       
+         '--------'        
+            |S|            
+           /| |\           
+          * | | *          
+            |_|            
+           /   \           
+          *     *          
 ```
+
+*yes, the cape has an S — no, it does not stand for "Stack Overflow" (it does)*
 
 </div>
 
@@ -132,11 +130,11 @@
 <div align="center">
 
 ```
-┌─────────────────────────────────────────────────────────┐
-│  "The best way to predict the future is to build it,     │
-│   fix the bugs in it, and then rewrite it entirely."      │
-│                                    — Captain Segfault      │
-└─────────────────────────────────────────────────────────┘
++-------------------------------------------------------+
+|  "The best way to predict the future is to build it,  |
+|   fix the bugs in it, and then rewrite it entirely."  |
+|                   - Captain Segfault                  |
++-------------------------------------------------------+
 ```
 
 </div>
