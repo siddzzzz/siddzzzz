@@ -1,0 +1,114 @@
+<svg viewBox="0 0 900 260" width="100%" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    
+    <pattern id="grid" width="24" height="24" patternUnits="userSpaceOnUse">
+      <circle cx="1" cy="1" r="0.8" fill="#222222" />
+    </pattern>
+
+    
+    <filter id="glow" x="-30%" y="-30%" width="160%" height="160%">
+      <feGaussianBlur stdDeviation="3" result="blur" />
+      <feComposite in="SourceGraphic" in2="blur" operator="over" />
+    </filter>
+  </defs>
+
+  <style>
+    .mono { font-family: 'JetBrains Mono', 'Fira Code', ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace; }
+    .sans { font-family: -apple-system, BlinkMacSystemFont, 'Inter', 'Segoe UI', Helvetica, Arial, sans-serif; }
+
+    @keyframes pulse {
+      0%, 100% { opacity: 1; }
+      50% { opacity: 0.25; }
+    }
+    @keyframes signal {
+      0% { stroke-dashoffset: 280; opacity: 0.2; }
+      40% { opacity: 1; }
+      100% { stroke-dashoffset: 0; opacity: 0.9; }
+    }
+    @keyframes nodePing {
+      0% { r: 5; opacity: 0.9; }
+      100% { r: 16; opacity: 0; }
+    }
+    @keyframes blink {
+      0%, 49% { opacity: 1; }
+      50%, 100% { opacity: 0; }
+    }
+
+    .status-dot { animation: pulse 2s ease-in-out infinite; }
+    .optimal-path {
+      stroke-dasharray: 280;
+      stroke-dashoffset: 280;
+      animation: signal 3.2s cubic-bezier(0.4, 0, 0.2, 1) infinite;
+    }
+    .goal-ring { animation: nodePing 2.4s ease-out infinite; }
+    .cursor { animation: blink 1.1s step-end infinite; }
+  </style>
+
+  
+  <rect x="0.5" y="0.5" width="899" height="259" rx="10" fill="#09090B" stroke="#27272A" stroke-width="1" />
+  <rect x="1" y="1" width="898" height="258" rx="10" fill="url(#grid)" />
+
+  
+  <text x="36" y="30" class="mono" font-size="10.5" fill="#71717A" letter-spacing="1.5">SYS.PROFILE // 0xSIDD</text>
+  <circle cx="672" cy="26.5" r="3.5" fill="#FF3B30" class="status-dot" />
+  <text x="684" y="30" class="mono" font-size="10.5" fill="#A1A1AA" letter-spacing="1.2">BUILDING FROM FIRST PRINCIPLES</text>
+  <line x1="36" y1="44" x2="864" y2="44" stroke="#1E1E22" stroke-width="1" />
+
+  
+  <text x="36" y="108" class="sans" font-size="40" font-weight="800" fill="#FAFAFA" letter-spacing="2.5">SIDDHARTH SAHAY</text>
+  <rect x="466" y="80" width="12" height="30" fill="#FF3B30" class="cursor" />
+
+  
+  <rect x="36" y="124" width="44" height="2.5" fill="#FF3B30" />
+  <rect x="86" y="124" width="14" height="2.5" fill="#3F3F46" />
+
+  
+  <text x="36" y="154" class="mono" font-size="12.5" fill="#E4E4E7" letter-spacing="1.8">AI RESEARCHER BY DAY  ·  BOSS-FIGHTER BY NIGHT</text>
+  <text x="36" y="180" class="sans" font-size="13" fill="#71717A">Architecting neural models, search heuristics &amp; privacy-first systems from scratch.</text>
+
+  
+  <g transform="translate(0, 4)">
+    
+    <rect x="572" y="58" width="292" height="148" rx="6" fill="#0E0E11" stroke="#1E1E22" stroke-width="1" />
+    <text x="586" y="76" class="mono" font-size="9.5" fill="#52525B" letter-spacing="1">SEARCH.SPACE // h(n) ≤ h*(n)</text>
+
+    
+    <g stroke="#27272A" stroke-width="1.2" fill="none">
+      <line x1="605" y1="138" x2="665" y2="178" />
+      <line x1="665" y1="100" x2="665" y2="178" />
+      <line x1="665" y1="178" x2="748" y2="170" />
+      <line x1="665" y1="178" x2="742" y2="112" />
+      <line x1="742" y1="112" x2="748" y2="170" />
+      <line x1="748" y1="170" x2="830" y2="136" />
+    </g>
+
+    
+    <polyline points="605,138 665,100 742,112 830,136" fill="none" stroke="#3F3F46" stroke-width="1.5" />
+
+    
+    <polyline points="605,138 665,100 742,112 830,136" fill="none" stroke="#FF3B30" stroke-width="2" filter="url(#glow)" class="optimal-path" />
+
+    
+    <circle cx="665" cy="178" r="3.5" fill="#18181B" stroke="#52525B" stroke-width="1.5" />
+    <circle cx="748" cy="170" r="3.5" fill="#18181B" stroke="#52525B" stroke-width="1.5" />
+
+    
+    <circle cx="605" cy="138" r="4.5" fill="#FAFAFA" />
+    <circle cx="665" cy="100" r="4" fill="#FAFAFA" />
+    <circle cx="742" cy="112" r="4" fill="#FAFAFA" />
+
+    
+    <circle cx="830" cy="136" r="5" fill="none" stroke="#FF3B30" stroke-width="1.2" class="goal-ring" />
+    <circle cx="830" cy="136" r="5" fill="#FF3B30" />
+
+    <text x="586" y="196" class="mono" font-size="9" fill="#52525B">START: 0x00</text>
+    <text x="774" y="196" class="mono" font-size="9" fill="#FF3B30">GOAL: AGI</text>
+  </g>
+
+  
+  <line x1="36" y1="220" x2="864" y2="220" stroke="#1E1E22" stroke-width="1" />
+  <text x="36" y="241" class="mono" font-size="10" fill="#71717A" letter-spacing="1">LOC: BENGALURU, IN</text>
+  <text x="235" y="241" class="mono" font-size="10" fill="#3F3F46">|</text>
+  <text x="255" y="241" class="mono" font-size="10" fill="#71717A" letter-spacing="1">STACK: PYTORCH · C++ · FLUTTER · FASTAPI</text>
+  <text x="864" y="241" text-anchor="end" class="mono" font-size="10" fill="#A1A1AA" letter-spacing="1">SIDD 🕹️</text>
+</svg>
