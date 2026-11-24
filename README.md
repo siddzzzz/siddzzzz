@@ -33,13 +33,6 @@
 
 Click any dossier below to inspect the methodology:
 
-<details>
-<summary><code>[2026]</code> <b>NeRF-Based 3D Reconstruction of Cultural Artifacts</b> — <i>ICT Journal of Research & Application</i></summary>
-<br />
-
-* Applied Neural Radiance Fields to reconstruct high-fidelity 3D geometry of historical cultural artifacts from sparse multi-view captures.
-
-</details>
 
 <details>
 <summary><code>[2025]</code> <b>Multimodal AI for Indian Sign Language via Federated Learning</b> — <i>IEEE NKCon 2025</i></summary>
