@@ -34,15 +34,6 @@
 Click any dossier below to inspect the methodology:
 
 <details>
-<summary><code>[2026]</code> <b>Neural-Guided Heuristic Search</b> — Asymmetric Loss & Bellman Operators</summary>
-<br />
-
-* Investigated heuristic overestimation in neural A* search over combinatorial state spaces.
-* Formulated asymmetric loss functions paired with Bellman operator constraints to preserve admissibility and cut node expansions significantly.
-
-</details>
-
-<details>
 <summary><code>[2026]</code> <b>NeRF-Based 3D Reconstruction of Cultural Artifacts</b> — <i>ICT Journal of Research & Application</i></summary>
 <br />
 
@@ -76,11 +67,3 @@ Click any dossier below to inspect the methodology:
 
 ---
 
-### `04 // FIELD EXPERIENCE`
-
-```text
-├── THALES (Software Engineering Intern · 2026)
-│   └── Model Context Protocol (MCP) server testing, deployment & vulnerability management workflows.
-│
-└── TWINNING AI (AI Research Intern · 2025)
-    └── Applied deep learning research, prototyping, and experimental evaluation.
