@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="./header.svg" alt="Siddharth Sahay — AI Researcher & Systems Builder" width="100%" />
+  <img src="./gemini-svg.svg" alt="Siddharth Sahay — AI Researcher & Systems Builder" width="100%" />
 </div>
 
 <br />
@@ -7,9 +7,8 @@
 <div align="center">
 
 [![TownSphere](https://img.shields.io/badge/TOWNSPHERE.ORG-09090B?style=for-the-badge&logo=vercel&logoColor=FF3B30)](https://townsphere.org)
-[![LinkedIn](https://img.shields.io/badge/LINKEDIN-09090B?style=for-the-badge&logo=linkedin&logoColor=FAFAFA)](https://linkedin.com/in/your-handle)
-[![arXiv / Scholar](https://img.shields.io/badge/RESEARCH-09090B?style=for-the-badge&logo=arxiv&logoColor=FAFAFA)](https://scholar.google.com/citations?user=your-id)
-[![Email](https://img.shields.io/badge/EMAIL-09090B?style=for-the-badge&logo=gmail&logoColor=FAFAFA)](mailto:your.email@example.com)
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-09090B?style=for-the-badge&logo=linkedin&logoColor=FAFAFA)]([https://linkedin.com/in/your-handle](https://www.linkedin.com/in/siddsahay/))
+[![arXiv / Scholar](https://img.shields.io/badge/RESEARCH-09090B?style=for-the-badge&logo=arxiv&logoColor=FAFAFA)]([https://scholar.google.com/citations?user=your-id](https://scholar.google.com/citations?hl=en&user=EVCbticAAAAJ))
 
 </div>
 
