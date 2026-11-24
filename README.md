@@ -58,5 +58,13 @@ Click any dossier below to inspect the methodology:
 
 </details>
 
+<details>
+<summary><code>[2026]</code> <b>Upcomming</b> — <i>arXiv Preprint</i></summary>
+<br />
+
+* Unified four hematological datasets into an aligned tensor pipeline using PyTorch ResNet-50 FPN for cross-dataset peripheral blood cell localization.
+
+</details>
+
 ---
 
